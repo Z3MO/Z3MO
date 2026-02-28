@@ -16,7 +16,7 @@ I'm a developer and content creator passionate about building immersive experien
 
 ### 📺 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zemoadityatomar)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](LINK_TO_YOUR_DISCORD)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KWNDuxpnK3)
 
 ### 📊 GitHub Stats
 <p align="left">
