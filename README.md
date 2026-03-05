@@ -3,7 +3,7 @@
 I'm a developer and content creator passionate about building immersive experiences and solving complex problems. 
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Mention a current FiveM script or project]**
+- 🔭 I’m currently working on **[z-phone]**
 - 🌱 I have 3+ years of experience specializing in **FiveM scripting and server development**.
 - 🎥 I create content on YouTube, where I live stream my dev work, play GTA roleplay, and troubleshoot PC errors. 
 - 📫 How to reach me: adityasingh.2888@gmail.com
@@ -20,5 +20,5 @@ I'm a developer and content creator passionate about building immersive experien
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Z3MO&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
